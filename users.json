@@ -1,0 +1,47 @@
+{
+    "users": [
+        {"id": 766365968,
+        "nickname": "TESTJXPFWPKC",
+        "password": "qatest8992",
+        "site_status": "active",
+        "email": "test_user_6096719@testuser.com",
+        "created_at":"27/5/2021",
+        "credentials": {
+            "test": {
+                "access_token": "TEST-7002248803234703-052800-486fc3e8ceb93b97fb978500c11ff2f8-766365968",
+                "public_key": "TEST-e1965439-bfc6-44d6-849d-96724102e4dd"
+            },
+            "production": {
+                "access_token": "APP_USR-7002248803234703-052800-b5ff2fa444449163716e892140a6f9dd-766365968",
+                "public_key": "APP_USR-22346783-5b27-4d80-b3ae-6395eca1bb6c" 
+            },
+            "client": {
+                "access_token": "4yjwOnj3lKn6HUWnDpMlsw3WekCdy7oA",
+                "public_key": "7002248803234703" 
+            }
+        }
+    },
+    { "id": 766376210,
+        "nickname": "TEST6B7GABVS",
+        "password": "qatest3262",
+        "site_status": "active",
+        "email": "test_user_50457618@testuser.com",
+        "created_at":"27/5/2021",
+        "credentials": {
+            "test": {
+                "access_token": "TEST-2775224364534247-052800-9deb8954e4d3a60def18cc2395ee3888-766376210",
+                "public_key": "TEST-bc80c5a5-5125-407b-89c1-6b6a8c59737a"
+            },
+            "production": {
+                "access_token":"APP_USR-2775224364534247-052800-249bb9558203a0f0b524116aef6782e8-766376210" ,
+                "public_key": "APP_USR-104e4cc1-e71c-4220-ac78-798eaedd60ca"
+            },
+            "client": {
+                "access_token": "6gVtZcqQBavlq0Plvvr0RqrOm8hJoFsE",
+                "public_key": "2775224364534247"
+    
+            }
+        }
+    }
+    ]
+}
